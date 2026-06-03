@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bhaumik%20Hinunia&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=< Full%20Stack%20Developer%20%2F%3E%20%7C%20%7B%20AI%20Engineer%20%7D%20%7C%20cs.student()&descAlignY=60&descSize=15&descColor=a0aec0" />
 
 <!-- Dynamic Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&repeat=true&width=650&lines=const+bhaumik+%3D+new+Developer('Full+Stack');+✨;bhaumik.build('Scalable+Web+Apps');+🚀;bhaumik.explore('AI+%26+Machine+Learning');+🤖;bhaumik.learn('Something+New').everyday();+🌱;bhaumik.status+%3D+'Open+to+Opportunities';+✅" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&repeat=true&width=650&lines=const+bhaumik+%3D+new+Developer('Full+Stack');+%E2%9C%A8;bhaumik.build('Scalable+Web+Apps');+%F0%9F%9A%80;bhaumik.explore('AI+%26+Machine+Learning');+%F0%9F%A4%96;bhaumik.learn('Something+New').everyday();+%F0%9F%8C%B1;bhaumik.status+%3D+'Open+to+Opportunities';+%E2%9C%85" alt="Typing SVG" />
 
 <br/>
 
@@ -84,14 +84,16 @@ const bhaumik = {
 ## 📊 GitHub Chronicles
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Bhaumik1904&theme=midnight-purple&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=666" />
-</div>
 
-<br/>
+<!-- Streak Stats - Updated reliable URL -->
+<img src="https://streak-stats.demolab.com?user=Bhaumik1904&theme=midnight-purple&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=888888" alt="GitHub Streak" />
 
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Bhaumik1904&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaumik1904&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" />
+<br/><br/>
+
+<!-- Stats Cards - Using direct vercel with cache busting -->
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Bhaumik1904&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaumik1904&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8&card_width=320" />
+
 </div>
 
 ---
@@ -99,7 +101,7 @@ const bhaumik = {
 ## 🏆 Trophy Cabinet
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bhaumik1904&theme=dracula&no-frame=true&no-bg=true&margin-w=8&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bhaumik1904&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=6" />
 </div>
 
 ---
@@ -121,18 +123,6 @@ const bhaumik = {
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhaumik1904&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FF6B6B&area_color=A78BFA&area=true&hide_border=true&custom_title=Bhaumik's%20Contribution%20Graph" />
 </div>
-
----
-
-## 🎵 Vibing To
-
-<div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31yxbtbsmm73lhtytb2rbosmbkji&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yxbtbsmm73lhtytb2rbosmbkji&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=false&bar_color=A78BFA&bar_color_cover=false" />
-  </a>
-</div>
-
-> 💡 *If that widget shows "Offline" — I'm probably deep in a debugging session 🐛*
 
 ---
 

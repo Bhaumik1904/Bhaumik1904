@@ -89,9 +89,12 @@ const bhaumik = {
 
 <br/><br/>
 
-<!-- Stats Cards - Using direct vercel with cache busting -->
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Bhaumik1904&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&count_private=true&include_all_commits=true&rank_icon=github" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhaumik1904&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8&card_width=320" />
+<!-- Stats Cards - github-profile-summary-cards (more reliable) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bhaumik1904&theme=2077" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhaumik1904&theme=2077" />
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhaumik1904&theme=2077" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bhaumik1904&theme=2077&utcOffset=5.5" />
 
 </div>
 
@@ -100,7 +103,7 @@ const bhaumik = {
 ## 🏆 Trophy Cabinet
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bhaumik1904&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bhaumik1904&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ---

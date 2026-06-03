@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bhaumik%20Hinunia&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=< Full%20Stack%20Developer%20%2F%3E%20%7C%20%7B%20AI%20Engineer%20%7D%20%7C%20cs.student()&descAlignY=60&descSize=15&descColor=a0aec0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Bhaumik%20Hinunia&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20CS%20Student&descAlignY=60&descSize=16&descColor=a0aec0" />
 
 <!-- Dynamic Typing -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&repeat=true&width=650&lines=const+bhaumik+%3D+new+Developer('Full+Stack');+%E2%9C%A8;bhaumik.build('Scalable+Web+Apps');+%F0%9F%9A%80;bhaumik.explore('AI+%26+Machine+Learning');+%F0%9F%A4%96;bhaumik.learn('Something+New').everyday();+%F0%9F%8C%B1;bhaumik.status+%3D+'Open+to+Opportunities';+%E2%9C%85" alt="Typing SVG" />
@@ -11,8 +11,7 @@
 <!-- Badges Row -->
 <a href="https://www.linkedin.com/in/bhaumikhinunia1904"><img src="https://img.shields.io/badge/-Bhaumik%20Hinunia-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/bhaumik__194"><img src="https://img.shields.io/badge/-bhaumik__194-E1306C?style=flat-square&logo=instagram&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=Bhaumik1904&style=flat-square&color=A78BFA&label=profile+views"/>
-<img src="https://img.shields.io/github/followers/Bhaumik1904?style=flat-square&color=A78BFA&label=followers"/>
+<a href="mailto:bhaumikhinunia019@gmail.com"><img src="https://img.shields.io/badge/-bhaumikhinunia019%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 </div>
 

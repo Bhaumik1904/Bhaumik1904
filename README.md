@@ -61,7 +61,7 @@ const bhaumik = {
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║                   BHAUMIK'S TECH STACK                  ║
+║                   BHAUMIK'S TECH STACK                   ║
 ╠══════════════════════════════════════════════════════════╣
 ║  Languages   →  Java  C++  Python  JavaScript  TypeScript║
 ║  Frontend    →  React.js  HTML  CSS                      ║
